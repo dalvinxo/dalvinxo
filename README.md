@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dalvinxo
 - 👀 I’m interested in development web aplication
-- 🌱 I’m currently learning the stack MEAN and english every day
+- 🌱 I’m currently learning the stack MERN and english every day
 - 💞️ I’m looking to collaborate on react, angular, javascript or nodejs
 - 📫 How to reach me (809) 299-6510
 
